@@ -1,0 +1,7 @@
+name: pyclass-frc
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - bokeh
